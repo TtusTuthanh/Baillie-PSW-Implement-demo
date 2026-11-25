@@ -1,0 +1,23 @@
+# Build artifacts
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# graphify-out (if ever copied here)
+graphify-out/
+
+# Test binaries
+test_*.exe

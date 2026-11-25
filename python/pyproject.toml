@@ -1,0 +1,14 @@
+[project]
+name = "bpsw"
+version = "0.1.0"
+description = "Baillie-PSW primality test — all documented variants"
+requires-python = ">=3.10"
+
+[dependency-groups]
+dev = [
+    "pytest>=7.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
