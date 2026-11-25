@@ -1,2 +1,0 @@
-C:/msys64/ucrt64/bin/ar.exe qc libbpsw.a CMakeFiles/bpsw.dir/bpsw.cpp.obj
-C:/msys64/ucrt64/bin/ranlib.exe libbpsw.a

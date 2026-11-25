@@ -5,6 +5,21 @@
 *.dll
 *.so
 *.dylib
+*.a
+*.lib
+
+# CMake build directory
+cpp/build/
+
+# Rust target directory
+rust/target/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
 
 # IDE/Editor
 .vscode/
